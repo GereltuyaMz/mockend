@@ -4,36 +4,31 @@
       "id": 1,
       "title": "Coffee Shop",
       "location": "One Golden Mile, Netaji Nagar, New Delhi",
-      "rating": 4.7,
-      "image": "/place.jpg"
+      "rating": 4.7
     },
     {
       "id": 2,
       "title": "Coffee Shop",
       "location": "One Golden Mile, Netaji Nagar, New Delhi",
-      "rating": 4.7,
-      "image": "/place.jpg"
+      "rating": 4.7
     },
     {
       "id": 3,
       "title": "Coffee Shop",
       "location": "One Golden Mile, Netaji Nagar, New Delhi",
-      "rating": 4.9,
-      "image": "/place.jpg"
+      "rating": 4.9
     },
     {
       "id": 4,
       "title": "Coffee Shop",
       "location": "One Golden Mile, Netaji Nagar, New Delhi",
-      "rating": 4.9,
-      "image": "/place.jpg"
+      "rating": 4.9
     },
     {
       "id": 5,
       "title": "Coffee Shop",
       "location": "One Golden Mile, Netaji Nagar, New Delhi",
-      "rating": 4.9,
-      "image": "/place.jpg"
+      "rating": 4.9
     }
   ]
 }
