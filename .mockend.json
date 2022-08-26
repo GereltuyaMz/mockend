@@ -1,8 +1,0 @@
-{
-  "Post": {
-    "title": { "string": {} },
-    "location": { "string": {} },
-    "rating": { "number": {} },
-    "image": { "string": {} }
-  },
-}
