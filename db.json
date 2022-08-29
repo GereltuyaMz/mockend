@@ -2,33 +2,48 @@
   "posts": [
     {
       "id": 1,
-      "title": "Coffee Shop",
-      "location": "One Golden Mile, Netaji Nagar, New Delhi",
+      "title": "AMA Cafe",
+      "location": "MKT, Majnu ka Tila , New Delhi",
+      "image": "https://b.zmtcdn.com/data/pictures/7/20057817/2f09573d380c5a12511da422b3448099.jpeg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+      "description": "Popular Dishes, Pancakes and Maple Syrup, Pancake Breakfast, Choco Walnut Brownie, Banana Muffin, Apple Cinnamon Cake, Coffee Espresso",
+      "schedule": "Opens at 9am",
       "rating": 4.7
     },
     {
       "id": 2,
-      "title": "Coffee Shop",
-      "location": "One Golden Mile, Netaji Nagar, New Delhi",
-      "rating": 4.7
+      "title": "Millie's Espresso",
+      "location": "Building 5/3, jamyan gunii st 1st floor, Ulaanbaatar",
+      "image": "https://b.zmtcdn.com/data/reviews_photos/585/6f89fb7f892635886f8c23ee3426f585_1585883378.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+      "description": "Popular Dishes Appam, Tacos, Fish Curry, Coffee, Drinks, Chicken",
+      "schedule": "Opens at 9am",
+      "rating": 5.2
     },
     {
       "id": 3,
-      "title": "Coffee Shop",
-      "location": "One Golden Mile, Netaji Nagar, New Delhi",
-      "rating": 4.9
+      "title": "#Hashtag cheese & beer Broadway",
+      "location": "WW84+3RG, Ulaanbaatar",
+      "image": "https://b.zmtcdn.com/data/pictures/1/307931/c0244f6cbdbc9ba99b6c68aa1b289591.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+      "description": "People Say This Place Is Known For Best in Service, Clean and Hygienic Place, Nice Concept, Served Quickly, Healthy and Delicious, Fresh Food with Good Quality",
+      "schedule": "Opens at 10am",
+      "rating": 4
     },
     {
       "id": 4,
-      "title": "Coffee Shop",
-      "location": "One Golden Mile, Netaji Nagar, New Delhi",
-      "rating": 4.9
+      "title": "Smokehouse",
+      "location": "Sukhbaatar District, 1-r Khoroo, Olympic Street 5, DB Building, Ulaanbaatar 14220",
+      "image": "https://b.zmtcdn.com/data/pictures/1/307931/c0244f6cbdbc9ba99b6c68aa1b289591.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+      "description": "People Say This Place Is Known For Comforting Atmosphere, Host, View, Hospitality, Crowd, Great Service",
+      "schedule": "Opens at 10am",
+      "rating": 3.9
     },
     {
       "id": 5,
-      "title": "Coffee Shop",
-      "location": "One Golden Mile, Netaji Nagar, New Delhi",
-      "rating": 4.9
+      "title": "Redbull Restaurant",
+      "location": "United Nation's street, Ulaanbaatar 15141",
+      "image": "https://b.zmtcdn.com/data/pictures/1/307931/c0244f6cbdbc9ba99b6c68aa1b289591.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+      "description": "People Say This Place Is Known For Comforting Atmosphere, Host, View, Hospitality, Crowd, Great Service",
+      "schedule": "Opens at 11am",
+      "rating": 4.2
     }
   ]
 }
